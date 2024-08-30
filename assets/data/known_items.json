@@ -1,0 +1,14 @@
+{
+    "gloves": {
+      "title": "gloves",
+      "thumbnail": "gloves.png"
+    },
+    "sandals": {
+      "title": "sandals",
+      "thumbnail": "sandals.png"
+    },
+    "socks": {
+      "title": "socks",
+      "thumbnail": "socks.png"
+    }
+  }
